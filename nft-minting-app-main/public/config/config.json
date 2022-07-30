@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1a5485286C27afAdfc3A60FA2C4E8357d1F3f43f",
+  "SCAN_LINK": "https://etherscan.io/address/0x1a5485286c27afadfc3a60fa2c4e8357d1f3f43f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Sea Of Death",
+  "SYMBOL": "DEATH",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sea-of-death-bone-pirates",
+  "SHOW_BACKGROUND": true
+}
